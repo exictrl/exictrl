@@ -1,6 +1,6 @@
 # Hi, I'm Lisa 👾
 
-Welcome to my corner of the internet. I’m a C/C++ developer and media artist based in [Splaces.studio](https://www.instagram.com/splaces.studio/). 
+I’m a C/C++ developer and media artist based in [Splaces.studio](https://www.instagram.com/splaces.studio/). 
 I co-run the art group [**KVEF**](https://www.instagram.com/k.v.e.f/), where we explore the tangled space between code and matter through algorithmic sound, generative music, and bioart.
 # What I Do
 
