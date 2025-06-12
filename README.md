@@ -6,7 +6,7 @@ I co-run the art group [**KVEF**](https://www.instagram.com/k.v.e.f/), where we 
 
 - Systems & Creative Coding
 - Art & Science
-- Live Performance & Installations*
+- Live Performance & Installations
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
